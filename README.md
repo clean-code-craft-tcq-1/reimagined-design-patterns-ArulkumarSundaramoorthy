@@ -10,5 +10,5 @@ Give a summary description of Four design patterns that you choose from the foll
 > Do not add diagrams, and do not try to give a complete description of the patterns as found in the books. Rather think of how you would explain the essential ideas of these patterns in a few sentences to a colleague while drinking coffee.
 
 **Builder Pattern:**
-Builder Pattern is to create the complex code with step by step. Builder pattern used for Large and Complex development. Advantage is Step by step creation, so bugs can identify early stage and easy to seperate the code. Disadvantage is big.
+Builder Pattern is to create the complex code with step by step. Builder pattern used for Large and Complex development. Advantage is Step by step creation, so bugs can identify early stage and easy to seperate the code. Disadvantage is big code.
 

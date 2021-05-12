@@ -18,4 +18,7 @@ State Pattern used for change the internal states from one to another states. St
 **Observer:**
 Observer pattern observes the event or any action happen to the code and notify those event or action to the mutiple objects. Observer pattern used to collect the data from outside environment and also share the those changes to others as a notification.
 
+**Prototype:**
+Prototype pattern is used to create the copy of existing and related object as a new one. Prototype pattern reduces the time to create code from base.
+
 

@@ -17,10 +17,16 @@ Example: Build to Embedded system to control Traffic light. Step by step, first 
 **State Patterm:**
 State Pattern used for change the internal states from one to another states. State Pattern will reduce the dependency between the state changes from one to another. State pattern have the knowledge about pre states as well as post states.
 
+Example: Automotive Controllers state changes, like Initialization/Active/InActive/Sleep/OFF/etc.,. 
+
 **Observer:**
 Observer pattern observes the event or any action happen to the code and notify those event or action to the mutiple objects. Observer pattern used to collect the data from outside environment and also share the those changes to others as a notification.
 
+Example: Embedded system receive Temperature from outside envirnoment & notify to internal components.
+
 **Prototype:**
 Prototype pattern is used to create the copy of existing and related object as a new one. Prototype pattern reduces the time to create code from base.
+
+Example: Create related software components
 
 

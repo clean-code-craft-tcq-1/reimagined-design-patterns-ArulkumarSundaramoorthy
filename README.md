@@ -12,6 +12,8 @@ Give a summary description of Four design patterns that you choose from the foll
 **Builder Pattern:**
 Builder Pattern is to create the complex code with step by step. Builder pattern used for Large and Complex development. Advantage is Step by step creation, so bugs can identify early stage and easy to seperate the code. Disadvantage is big code.
 
+Example: Build to Embedded system to control Traffic light. Step by step, first build a code to control single side and add a control next side, then other sides.
+
 **State Patterm:**
 State Pattern used for change the internal states from one to another states. State Pattern will reduce the dependency between the state changes from one to another. State pattern have the knowledge about pre states as well as post states.
 
